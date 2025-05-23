@@ -83,4 +83,3 @@ actor {
           return Buffer.toArray(tarefas);
         };  
   };
-}
