@@ -1,5 +1,3 @@
-actor {
-  
       import Nat "mo:base/Nat";
       import Text "mo:base/Text";
       import Bool "mo:base/Bool";
